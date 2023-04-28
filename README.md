@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution](https://your-solution-url.com)
-- [Live Site](https://your-live-site-url.com)
+- [Solution](https://www.frontendmentor.io/solutions/responsive-social-proof-section-using-css-flex-grid-and-js-EaRHHHQJsX)
+- [Live Site](https://spiffy-mermaid-a79db8.netlify.app/)
 
 ## My process
 
